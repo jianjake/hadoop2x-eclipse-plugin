@@ -1,3 +1,6 @@
+一般来说可以直接将发布目录下的罐子文件复制到eclipese的插件目录，然后重启eclipese就可以
+
+
 hadoop2x-eclipse-plugin
 =======================
 
